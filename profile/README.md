@@ -15,12 +15,13 @@ Starbase was forged by builders who refuse to accept "good enough." We're a full
 
 ## Our Focus
 
-We specialize in developing custom software solutions for various industries, including:
+We build across the domains where we love to push hardest:
 
-* Environmental Sustainability
-* Education & Research
-* Healthcare & Wellness
-* Social Impact & Non-Profit
+* AI & Autonomous Agents
+* Developer Tools & Systems Programming
+* Blockchain & Web3
+* Creative, Audio & Media Tech
+* Education & Interactive Learning
 
 Every application we ship is built to be intuitive, lightning-fast, and ready to scale from one user to a million. We believe great technology should feel like magic — powerful in your hands, never intimidating.
 
