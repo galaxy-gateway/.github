@@ -13,26 +13,17 @@ Welcome to Starbase — the launchpad where bold ideas break orbit. We build sof
 
 Starbase was forged by builders who refuse to accept "good enough." We're a fully distributed crew of engineers, designers, and dreamers who treat hard problems like uncharted galaxies — something to map, explore, and conquer. Diverse minds, shared obsession: ship software that's fast, fearless, and genuinely useful. We work from everywhere on Earth, and our ambition has no borders — no atmosphere can contain it.
 
-## Our Focus
-
-We build across the domains where we love to push hardest:
-
-* AI & Autonomous Agents
-* Developer Tools & Systems Programming
-* Blockchain & Web3
-* Creative, Audio & Media Tech
-* Education & Interactive Learning
-
-Every application we ship is built to be intuitive, lightning-fast, and ready to scale from one user to a million. We believe great technology should feel like magic — powerful in your hands, never intimidating.
-
 ## What We Build
 
-From low-level systems tools to AI tooling, web apps, and blockchain — we go deep across the stack.
+From low-level systems tools to AI tooling, web apps, and blockchain — we go deep across the stack, in the domains where we love to push hardest:
 
-* **AI & Agent Tooling** — agent workflows, code review, transcription, and generative media pipelines.
-* **Systems & Developer Tools** — fast Rust CLIs, TUIs, and repo-management utilities.
+* **AI & Autonomous Agents** — agent workflows, code review, transcription, and generative media pipelines.
+* **Developer Tools & Systems** — fast Rust CLIs, TUIs, and repo-management utilities.
 * **Web & Interactive Apps** — modern TypeScript/React/Deno front ends and learning platforms.
 * **Blockchain & Web3** — Cardano, Midnight, and EVM tooling, wallets, and integrations.
+* **Creative, Audio & Media Tech** — music explorers, audio generation, and media tooling.
+
+Every application we ship is built to be intuitive, lightning-fast, and ready to scale from one user to a million. We believe great technology should feel like magic — powerful in your hands, never intimidating.
 
 ## Featured Projects
 
