@@ -1,4 +1,4 @@
-# Starbase
+# Galaxy Gateway
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -7,11 +7,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-Welcome to Starbase — the launchpad where bold ideas break orbit. We build software that bends the future toward the people of planet Earth, engineering tools that feel less like products and more like superpowers. Our mission: harness the raw gravity of technology and aim it at problems worth solving.
+Welcome to Galaxy Gateway — the launchpad where bold ideas break orbit. We build software that bends the future toward the people of planet Earth, engineering tools that feel less like products and more like superpowers. Our mission: harness the raw gravity of technology and aim it at problems worth solving.
 
 ## About Us
 
-Starbase was forged by builders who refuse to accept "good enough." We're a fully distributed crew of engineers, designers, and dreamers who treat hard problems like uncharted galaxies — something to map, explore, and conquer. Diverse minds, shared obsession: ship software that's fast, fearless, and genuinely useful. We work from everywhere on Earth, and our ambition has no borders — no atmosphere can contain it.
+Galaxy Gateway was forged by builders who refuse to accept "good enough." We're a fully distributed crew of engineers, designers, and dreamers who treat hard problems like uncharted galaxies — something to map, explore, and conquer. Diverse minds, shared obsession: ship software that's fast, fearless, and genuinely useful. We work from everywhere on Earth, and our ambition has no borders — no atmosphere can contain it.
 
 ## What We Build
 
@@ -35,7 +35,6 @@ Every application we ship is built to be intuitive, lightning-fast, and ready to
 | [quietly](https://github.com/galaxy-gateway/quietly) | Fast video/audio transcription from YouTube and local files. | Python · Whisper |
 | [mathcraft](https://github.com/galaxy-gateway/mathcraft) | A go-to reference for mathematical concepts, in code. | TypeScript |
 | [invent-your-own-music-theory](https://github.com/galaxy-gateway/invent-your-own-music-theory) | A music-learning system and interactive toolset. | TypeScript |
-| [midnight-meta](https://github.com/galaxy-gateway/midnight-meta) | Tooling and metarepo for the Midnight privacy blockchain. | TypeScript |
 | [discord-bot](https://github.com/galaxy-gateway/discord-bot) | A fast, extensible chatbot for Discord communities. | Rust |
 
 Browse all of our work in the [repositories tab](https://github.com/orgs/galaxy-gateway/repositories).
@@ -58,7 +57,7 @@ Have a hard problem, a half-formed idea, or a project that needs builders who mo
 
 ## Code of Conduct
 
-At Starbase, we value inclusivity, respect, and open communication. We expect all contributors to abide by our Code of Conduct.
+At Galaxy Gateway, we value inclusivity, respect, and open communication. We expect all contributors to abide by our Code of Conduct.
 
 ## License
 
@@ -70,8 +69,8 @@ We're grateful for the open-source community and every contributor who helps us 
 
 ## Stay Tuned!
 
-Watch and star our repositories to stay locked in on the latest launches, updates, and announcements from Starbase. Let's make a difference together.
+Watch and star our repositories to stay locked in on the latest launches, updates, and announcements from Galaxy Gateway. Let's make a difference together.
 
 ---
 
-**Starbase** — Empowering People Through Technology
+**Galaxy Gateway** — Empowering People Through Technology
