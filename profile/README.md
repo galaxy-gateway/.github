@@ -30,14 +30,12 @@ Every application we ship is built to be intuitive, lightning-fast, and ready to
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [muse](https://github.com/galaxy-gateway/muse) | A snappy terminal music explorer with a polished TUI. | Rust · ratatui |
-| [steal-skill](https://github.com/galaxy-gateway/steal-skill) | Discover, audit, and copy AI agent skills between repos. | Rust |
-| [shadow-repo](https://github.com/galaxy-gateway/shadow-repo) | Symlink-based shadow-repo utility with metarepo plugin support. | Rust |
-| [quietly](https://github.com/galaxy-gateway/quietly) | Fast video/audio transcription from YouTube and local files. | Python · Whisper |
+| [slacker](https://github.com/galaxy-gateway/slacker) | Chrome extension plus Rust daemon and MCP server that exposes Slack as a feed for AI agents. | Rust · TypeScript |
+| [glxy-repo](https://github.com/galaxy-gateway/glxy-repo) | The `meta` CLI for managing many git repos as one workspace (crate `metarepo`). | Rust |
 | [mathcraft](https://github.com/galaxy-gateway/mathcraft) | A go-to reference for mathematical concepts, in code. | TypeScript |
-| [invent-your-own-music-theory](https://github.com/galaxy-gateway/invent-your-own-music-theory) | A music-learning system and interactive toolset. | TypeScript |
 | [discord-bot](https://github.com/galaxy-gateway/discord-bot) | A fast, extensible chatbot for Discord communities. | Rust |
 
-Browse all of our work in the [repositories tab](https://github.com/orgs/galaxy-gateway/repositories).
+Browse all of our work in the [repositories tab](https://github.com/orgs/galaxy-gateway/repositories), or see the [hub](https://github.com/galaxy-gateway/galaxy-gateway) for the full project map.
 
 ## Getting Started
 
@@ -51,17 +49,17 @@ If you're interested in collaborating with us or learning more about our project
 
 Have a hard problem, a half-formed idea, or a project that needs builders who move fast and sweat the details? We'd love to hear it.
 
-* **Hire us / collaborate** — email [codyaverett@gmail.com](mailto:codyaverett@gmail.com).
-* **Start a conversation** — open an issue or discussion on any of our repos.
+* **Hire us / collaborate**: start a conversation at [galaxygateway.dev/transmit](https://galaxygateway.dev/transmit).
+* **Ask or suggest**: open an issue or discussion on any of our repos.
 * **Build with us** — fork, file a PR, and join the crew.
 
 ## Code of Conduct
 
-At Galaxy Gateway, we value inclusivity, respect, and open communication. We expect all contributors to abide by our Code of Conduct.
+At Galaxy Gateway, we value inclusivity, respect, and open communication. We expect all contributors to abide by our [Code of Conduct](https://github.com/galaxy-gateway/.github/blob/main/CODE_OF_CONDUCT.md). See also [CONTRIBUTING.md](https://github.com/galaxy-gateway/.github/blob/main/CONTRIBUTING.md) and [SECURITY.md](https://github.com/galaxy-gateway/.github/blob/main/SECURITY.md).
 
 ## License
 
-Unless noted otherwise, code across our repositories is released under the MIT License. Check each repository's LICENSE file for specifics.
+Each repository carries its own LICENSE file; most are MIT. Check the repo for specifics.
 
 ## Acknowledgments
 
